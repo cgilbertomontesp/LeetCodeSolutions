@@ -12,4 +12,4 @@ Contributions are welcome! If you have a more optimized solution or want to add 
 
 ## Contact
 
-Feel free to reach out to me via [email](mailto:your.email@example.com) if you have any questions or suggestions.
+Feel free to reach out to me via [email](mailto:gilbertomontes.dev@gmail.com) if you have any questions or suggestions.

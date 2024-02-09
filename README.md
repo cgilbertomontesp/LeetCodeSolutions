@@ -4,7 +4,7 @@ This repository contains my solutions to various LeetCode problems. These soluti
 
 ## Structure
 
-The repository is organized by question number, each folder contains the file with the solution of each question and another file explaining my personal approach and additional coments on the solutions. You can navigate through the directories to explore solutions for different types of problems.
+The repository is organized by question number, each folder contains the file with the solution of each question and another file explaining my personal approach and additional comments on the solutions. You can navigate through the directories to explore solutions for different types of problems.
 
 ## Contributing
 

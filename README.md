@@ -1,4 +1,4 @@
-# LeetCode Solutions
+# LeetCode Solutions 🧠
 
 This repository contains my solutions to various LeetCode problems. These solutions are intended to showcase my algorithmic knowledge and problem-solving skills.
 
